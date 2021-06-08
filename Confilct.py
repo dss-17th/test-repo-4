@@ -1,2 +1,1 @@
-print('dog')
-
+print('A')
